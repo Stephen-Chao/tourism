@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#000A30</color>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorAccent">#374EA1</color>
+
+
+    <color name="white_login_screen">#ffffff</color>
+
+    <color name="light_blue">#3acce1</color>
+    <color name="dark_blue">#3290A2</color>
+    <color name="colorBrightGreen">#46cbc7</color>
+
+
+    <color name="dark_grey">#353a50</color>
+    <color name="light_grey">#5B6183</color>
+    
+    <color name="gray_text_view">#C9C9C9</color>
+    <color name="light_grey_shade">#F0F0F0</color>
+
+    <color name="background_gray">#E0E0E0</color>
+
+    <color name="green_great">#1DFF78</color>
+    <color name="orange_good">#FFD11A</color>
+    <color name="red_bad">#FF2454</color>
+
+
+    <color name="blue_logo">#374EA1</color>
+    <color name="yello_logo">#F4C230</color>
+    <color name="red_logo">#DC001A</color>
+
+    <color name="nav_light_blue">#FF8196CC</color>
+
+    <color name="gold">#DAA520</color>
+    <color name="gray">#808080</color>
+    <color name="blue_logo_transparent">#202343BA</color>
+
+    <color name="toolbar_tv_color">#001588</color>
+
+    <color name="transparent_color">#80ffffff</color>
+
+
+    <color name="selected_tab_color">#001588</color>
+
+    <color name="titles_color">#000A30</color>
+
+    <color name="green_open">#4c9900</color>
+
+    <color name="red_close">#cc0000</color>
+
+    <color name="bottom_navigation_background">#FFFFFF</color>
+
+    <color name="place_phone_color">#FF485DA8</color>
+
+</resources>

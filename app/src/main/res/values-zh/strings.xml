@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Seyaha旅行</string>
+
+    <string name="save_interests">保存</string>
+    <string name="clear_interests">清除</string>
+
+
+    <string name="save">兴趣已成功保存</string>
+    <string name="save_size_check">请至少选择一项</string>
+    <string name="save_size_check2">保存前请选择新的或者另一种兴趣</string>
+
+    <string name="transportation_cost">运输费用：</string>
+
+    <string name="notification">展示</string>
+    <string name="notification_on">展示已启用</string>
+    <string name="notification_off">展示已禁用</string>
+
+    <string name="login_welcome">"欢迎"</string>
+    <string name="login_description">"浏览爱尔兰和发现\n新地方的最佳方式"</string>
+    <string name="login_continue">继续：</string>
+
+    <string name="close">再次点击退出</string>
+    <string name="retry">重试</string>
+    <string name="lost_internet">网络未连接</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCmHrgrKhmGi3tItPhLSxljMNWNRyoUQ_4</string>
+
+    <string name="facebook_application_id" translatable="false">1412095238993205</string>
+    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1412095238993205</string>
+
+    <string name="lang">语言</string>
+    <string name="desc">描述</string>
+    <string name="title">标题</string>
+    <string name="EU">欧元</string>
+    <string name="now">(现在)</string>
+    <string name="title_share">爱尔兰旅游应用程序</string>
+    <string name="using">分享使用：</string>
+    <string name="recommended">推荐</string>
+    <string name="top_rated">最高评分</string>
+    <!-- Strings for the (drawer_menu) titles -->
+    <string name="english">英语</string>
+    <string name="chinese">简体中文</string>
+    <string name="nav_profile">个人资料</string>
+    <string name="nav_tour">景点</string>
+    <string name="nav_upcoming_event">提醒事项</string>
+    <string name="nav_help_feedback">帮助 &amp; 反馈</string>
+    <string name="nav_logout">登出</string>
+
+    <!-- Strings for the (ActionBarDrawerToggle) -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="select_places">选择地点：</string>
+
+    <!-- Strings for the(Detailed activity) -->
+    <string name="cold">"气温偏低"</string>
+    <string name="perfect">"适宜"</string>
+    <string name="hot">"气温偏高"</string>
+    <string name="normal">"一般"</string>
+    <string name="bad_internet">很差</string>
+    <string name="good_internet">好</string>
+    <string name="great_internet">很好</string>
+    <string name="okay_internet">一般</string>
+    <string name="alert_rating_hint">"分享你旅游的经历"</string>
+    <string name="alert_rating_post">发布</string>
+    <string name="alert_rating_cancel">取消</string>
+    <string name="detailed_activity_description">描述</string>
+    <string name="detailed_activity_information_about">相关信息</string>
+    <string name="detailed_activity_cost">费用</string>
+    <string name="detailed_activity_temp">温度</string>
+    <string name="detailed_activity_air_quality">空气质量</string>
+    <string name="detailed_activity_internet">网络</string>
+    <string name="detailed_activity_recommendations_for">建议</string>
+    <string name="detailed_activity_season">季节</string>
+    <string name="detailed_activity_time">时间</string>
+    <string name="detailed_activity_age">年龄</string>
+    <string name="detailed_activity_estimation">估计值</string>
+    <string name="detailed_activity_location_for">位置</string>
+    <string name="summer_season">夏季</string>
+    <string name="winter_season">冬季</string>
+    <string name="spring_season">春季</string>
+    <string name="autumn_season">秋季</string>
+    <string name="day_time">白昼</string>
+    <string name="night_time">夜晚</string>
+    <string name="delete_tour">删除</string>
+    <string name="tour_overview">景点总览</string>
+    <string name="reset">重置</string>
+    <string name="publish">发布</string>
+    <string name="create_tour">创建景点</string>
+    <string name="title_english">英文标题</string>
+    <string name="title_chinese">中文标题</string>
+    <string name="places">地点</string>
+    <string name="toast_places">请选择至少三个景点来创建分类</string>
+    <string name="helpandfeedback">帮助与反馈</string>
+    <string name="already_rated">你已经为这次旅行评分！！</string>
+    <string name="detailed_activity_title">旅行描述</string>
+    <string name="reviews_comments_dialog">评论</string>
+    <string name="interests">选择你的兴趣：</string>
+    <string name="emergency">紧急电话：</string>
+    <string name="ministry_of_tourism">旅游服务：</string>
+    <string name="contact_us">联系我们：</string>
+    <string name="test_tour">你还没有选择你的兴趣！！</string>
+    <string name="overview_activity_title">景点总览</string>
+    <string name="activities_cost">活动费用：</string>
+    <string name="three_star_cost">三星级酒店价格：</string>
+    <string name="four_star_cost">四星级酒店价格：</string>
+    <string name="five_star_hotel">五星级酒店价格：</string>
+
+    <string name="weather">天气信息</string>
+    <string name="max">最高气温</string>
+    <string name="min">最低气温</string>
+    <string name="humidity">湿度</string>
+    <string name="wind">风速</string>
+
+    <string name="four_g">4G可用</string>
+    <string name="three_g">3G可用</string>
+    <string name="two_g">2G可用</string>
+    <string name="no_service">无服务</string>
+
+    <string name="cost_popup_title">账单明细</string>
+    <string name="entrance_fees">门票</string>
+    <string name="food">食物费用</string>
+    <string name="transportation">交通费用</string>
+    <string name="overnight_rate">酒店费用</string>
+    <string name="cheap_cost">最低消费</string>
+    <string name="average_cost">平均消费</string>
+    <string name="expensive_cost">最高消费</string>
+    <string name="apply">申请</string>
+
+    <!-- Clarification Dialog -->
+    <string name="clarification_dialog_title">声明</string>
+    <string name="clarification_dialog_body">&#8226; 默认的  <b>交通费用</b> 成本/预算是从都柏林国际机场（Dublin Airport）作为起点，并以所需的地点作为终点来计算的。 \n\n&#8226; 默认 <b> 预算的时间 </b> 通过将所有所需的场所活动时间和运输时间相加得出。\n\n&#8226; <b>您可以通过单击（成本）旁边的感叹号来自定义每个位置的预计时间和成本。</b></string>
+    <string name="clarification_dialog_checkbox">不再显示</string>
+    <string name="sleep">过夜</string>
+
+    <string name="place_location">未知</string>
+
+    <string name="place_website">未知</string>
+
+    <string name="place_phone">未知</string>
+    <string name="Places">"地点"</string>
+    <string name="image_description">照片</string>
+    <string name="information_about">相关信息</string>
+    <string name="place">位置</string>
+    <string name="place_info_toolbar_title">位置信息</string>
+    <string name="places_toolbar_title">地点</string>
+    <string name="tab_hotels">酒店</string>
+    <string name="tab_restaurants">"餐馆"</string>
+
+    <string name="nearby"></string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515622488977",
+    "firebase_url": "https://seyaha-1fbbb.firebaseio.com",
+    "project_id": "seyaha-1fbbb",
+    "storage_bucket": "seyaha-1fbbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515622488977:android:f4c0e3a2dd6388acea6830",
+        "android_client_info": {
+          "package_name": "com.example.seyaha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515622488977-tfk7mnppcqfjeo6f4jaqt92mg0m2mlp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seyaha",
+            "certificate_hash": "ed42d89290b1c1fa4118edca6dffaff5355f345c"
+          }
+        },
+        {
+          "client_id": "515622488977-uhjhuts0l54mj1fv9uku0v444p05p5e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAet3pjyqk8Q0JoWj3vq7HPw-XMd0wDL4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515622488977-uhjhuts0l54mj1fv9uku0v444p05p5e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
